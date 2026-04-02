@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  background: linear-gradient(135deg, #1e1e2f, #2a2a40);
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+.container { max-width: 600px; margin: auto; }
+input {
+  width: 80%; padding: 12px; border-radius: 8px; margin: 10px;
+}
+button {
+  padding: 12px; border-radius: 8px; background: green; color: white;
+}
+#output { margin-top: 20px; }
